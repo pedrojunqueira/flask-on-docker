@@ -1,0 +1,11 @@
+# exclude env files 
+.env.dev
+.env.prod
+.env.prod.db
+
+# python env
+env
+
+.vscode
+__pycache__
+.DS_Store
